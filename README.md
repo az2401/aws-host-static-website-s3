@@ -12,9 +12,7 @@ This project demonstrates how to host a static website on AWS S3. It includes a 
 
 You can replicate the hosting process by following the PDF guide. The `index.html` file can also be hosted using GitHub Pages for free.
 
-## 🌐 Live Demo (if using GitHub Pages)
 
-[Click here to view the site](https://az2401.github.io/aws-host-static-website-s3)
 
 ## 🧹 Note
 
